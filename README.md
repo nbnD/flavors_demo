@@ -1,16 +1,20 @@
 # flavors_demo
 
-A new Flutter project.
+Create different apps for different environments
 
-## Getting Started
+Here we shall be learning to add flavors in Flutter.
 
-This project is a starting point for a Flutter application.
+**Why Flavors?**
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+When you want to build different apps for different environments, Falvors come into an use. Flavors gives us flexibility to access relative data of specific environments.
+
+Also, let's suppose you you are working on SAAS products where you have mulitple organizations of similar category. For example.
+We have School A and School B which are member of the product. All Functions are almost similar, and schools have different Themes, Data, Logo, Icons etc. With flavors you can build different apps different appId which can be uploaded to playstore respectively.
+
+
+
+
+
+

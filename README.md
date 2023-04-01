@@ -4,6 +4,8 @@ Create different apps for different environments
 
 Here we shall be learning to add flavors in Flutter.
 
+[Documentation](https://flutterjunction.com/how-to-add-flavors-in-flutter)
+
 **Why Flavors?**
 
 
@@ -21,6 +23,7 @@ We have School A and School B which are member of the product. All Functions are
 
 
 </p>
+
 
 
 
